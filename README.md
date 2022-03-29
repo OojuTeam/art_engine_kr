@@ -2,9 +2,9 @@
 powered by the [HashLips art engine](https://github.com/HashLips/hashlips_art_engine).
 
 ## Installation 🛠️
+Download the code [here](https://github.com/OojuTeam/art_engine_kr/archive/refs/heads/master.zip).
 
 ```sh
-git clone https://github.com/OojuTeam/art_engine_kr.git
 npm install
 ```
 
