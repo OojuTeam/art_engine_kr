@@ -2,11 +2,11 @@
 powered by the [HashLips art engine](https://github.com/HashLips/hashlips_art_engine).
 
 ## Installation 🛠️
-Download the code [here](https://github.com/OojuTeam/art_engine_kr/archive/refs/heads/master.zip).
 
-```sh
-npm install
-```
+1. Download the code [here](https://github.com/OojuTeam/art_engine_kr/archive/refs/heads/master.zip).
+2. Set up NPM on your computer ([Windows](https://docs.google.com/document/d/1DaNbDBdz4x_NmwocYB3vM5VUrNogjNLYpM-9PCH3ohI/edit?usp=sharing), Mac)
+3. Navigate to your code with the Command Prompt (Windows) or Terminal (Mac)
+4. `npm install`
 
 ## Usage ℹ️
 
