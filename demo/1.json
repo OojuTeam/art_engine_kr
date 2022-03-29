@@ -1,0 +1,32 @@
+{
+  "name": "Character #1",
+  "description": "Sugar Maple is an 8-part fiction podcast.",
+  "image": "ipfs://UPDATE_ME/1.png",
+  "dna": "b3ae37fabdb5ca9cbe53ab702fd5107094068fdd",
+  "edition": 1,
+  "date": 1645981030270,
+  "artist": "Seyoung Han",
+  "agency": "Ooju",
+  "attributes": [
+    {
+      "trait_type": "character",
+      "value": "Terrance Woodridge"
+    },
+    {
+      "trait_type": "background",
+      "value": "depressed imagination"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "purple silk"
+    },
+    {
+      "trait_type": "Face",
+      "value": "proud"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "striped philosophy book"
+    }
+  ]
+}
